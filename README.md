@@ -33,4 +33,4 @@ Run wine-final.py to see the plots and the accuracy before and after PCA.
 
 ## Author
 
-* **Thiago Vilela** - *Initial work* - [svthiago](https://github.com/svthiago)
+* **Thiago Vilela** - [svthiago](https://github.com/svthiago)
