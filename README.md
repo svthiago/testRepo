@@ -16,7 +16,7 @@ More information on this dataset at:
 https://archive.ics.uci.edu/ml/datasets/wine
 
 
-t## Prerequisites
+## Prerequisites
 
 What libraries you need to run:
 
@@ -28,7 +28,7 @@ What libraries you need to run:
 
 ## Running the code
 
-Run wineFinal.py to see the plots and the accuracy before and after PCA.
+Run wine-final.py to see the plots and the accuracy before and after PCA.
 
 
 ## Author
